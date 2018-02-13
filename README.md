@@ -2,22 +2,22 @@
 
 ### Creating DB
 
-![creatingDB](/images/Creating_DB.png)
+<img src="images/Creating_DB.png" width="100%">
 
-![dummyData1](/images/dummydata.png)
+<img src"images/dummydata.png" width="100%">
 
-![dummydata2](/images/dummydata2.png)
+<img src"images/dummydata2.png" width="100%">
 
-![empty_table](/images/Empty_Table.png)
+<img src"images/Empty_Table.png" width="100%">
 
 ### Running bamazon.js
 
-![tongs1](/images/tongs1.png)
+<img src"images/tongs1.png" width="100%">
 
 *Do it again, and it keeps track of inventory*
 
-![tongs2](/images/tongs2.png)
+<img src"images/tongs2.png" width="100%">
 
 *See?*
 
-![tongs3](/images/tongs3.png)
+<img src"images/tongs3.png" width="100%">
