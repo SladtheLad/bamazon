@@ -4,11 +4,12 @@
 
 ![creatingDB](/images/Creating_DB.PNG)
 
+![empty_table](/images/Empty_Table.PNG)
+
 ![dummyData1](/images/dummydata.PNG)
 
 ![dummydata2](/images/dummydata2.PNG)
 
-![empty_table](/images/Empty_Table.PNG)
 
 ### Running bamazon.js
 
